@@ -25,7 +25,7 @@ You're encouraged to contribute to our project if you've found any issues or mis
 Before sending any pull request, please discuss requirements/changes to be implemented using an existing issue or by creating a new one. All pull requests should be done into the development branch.
 
 # 4. How to start the project locally.
-4.1. Clone or download the project from **https://github.com/lv487nodejs/fn.git**
+4.1. Clone or download the project from **https://github.com/lv487nodejs/NChoice.git**
 
 4.2. Before running the project, make sure that you downloaded all dependencies.
 
